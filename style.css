@@ -404,7 +404,7 @@ input {
         top: 105px;
         left: 21px;
         color: black;
-        font-size: 10px;
+        font-size: 13px;
         list-style: none;
         word-spacing: 10px;
         padding-left: 0;
@@ -412,7 +412,7 @@ input {
     .p2-page1 li::before {
         content: "●"; /* Bullet manual */
         display: inline-block;
-        font-size: 10px; /* Ini mengatur jarak ke teks */
+        font-size: 8px; /* Ini mengatur jarak ke teks */
         margin-right: 15px;
         color: blue;
     }
@@ -421,7 +421,7 @@ input {
         position: absolute;
         top: 214px;
         left: 68px;
-        font-size: 10px;
+        font-size: 13px;
     }
     .s2 {
         width: 40px;
@@ -434,7 +434,7 @@ input {
         position: absolute;
         top: 61px;
         left: 39px;
-        font-size: 10px;
+        font-size: 13px;
     }
     .geser1 {
         margin-left: 36px;
@@ -473,7 +473,7 @@ input {
         position: absolute;
         top: 75px;
         left: 37px;
-        font-size: 10px;
+        font-size: 13px;
     }
     .geser3 {
         margin-left: 10px;
@@ -491,7 +491,7 @@ input {
         position: absolute;
         top: 75px;
         left: 37px;
-        font-size: 10px;
+        font-size: 13px;
     }
     .geser5 {
         margin-left: 3px;
