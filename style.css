@@ -892,11 +892,21 @@ input {
     #checkButton {
         background-color: #d22121;
         border: none;
-        width: 9px;
-        height: 346px;
+        width: 7px;
+        height: 338px;
         border-radius: 0 0 3px 3px;
         position: absolute;
         top: 0;
         left: 2px;
     }
+    #checkButton1 {
+        background-color: #d22121;
+        border: none;
+        width: 7px;
+        height: 35px;
+        border-radius: 0 0 3px 3px;
+        position: absolute;
+        top: 303px;
+        left: 193px;
+        }
 }
