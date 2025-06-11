@@ -391,7 +391,7 @@ input {
         left: 63px;
         text-decoration: underline;
         text-decoration-color: blue;
-        font-size: 15px;
+        font-size: 10px;
         word-spacing: 8px;
     }
 
@@ -404,7 +404,7 @@ input {
         top: 105px;
         left: 21px;
         color: black;
-        font-size: 15px;
+        font-size: 10px;
         list-style: none;
         word-spacing: 10px;
         padding-left: 0;
@@ -421,7 +421,7 @@ input {
         position: absolute;
         top: 214px;
         left: 68px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .s2 {
         width: 40px;
@@ -434,7 +434,7 @@ input {
         position: absolute;
         top: 61px;
         left: 39px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .geser1 {
         margin-left: 36px;
@@ -473,7 +473,7 @@ input {
         position: absolute;
         top: 75px;
         left: 37px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .geser3 {
         margin-left: 10px;
@@ -491,7 +491,7 @@ input {
         position: absolute;
         top: 75px;
         left: 37px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .geser5 {
         margin-left: 3px;
@@ -503,7 +503,7 @@ input {
         position: absolute;
         top: 168px;
         left: 37px;
-        font-size: 15px;
+        font-size: 10px;
     }
     .geser7 {
         margin-left: 3px;
