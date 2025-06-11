@@ -1001,7 +1001,7 @@ input {
 
     .lot {
         position: absolute;
-        top: 600px;
+        top: 750px;
         left: 50%;
         transform: translateX(-50%);
         padding: 10px 20px;
