@@ -8,7 +8,7 @@ body {
     font-family: "Caveat", cursive;
 
     background: linear-gradient(to bottom right, #f1bc00, #ffff);
-    height: 100vh;
+    height: 100dvh;
 
     align-items: center;
     justify-content: center;
